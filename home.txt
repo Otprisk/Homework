@@ -1,3 +1,11 @@
 new
 
 change 1 master
+
+change 1 nice feature
+
+change 1 very nice feature
+
+change 2 very nice feature
+
+change 2 master
